@@ -1,30 +1,23 @@
-![Integrando seu projeto React com APIs](thumbnail.png)
+Organo
+O Organo é uma aplicação que desenvolvi para aprimorar minhas habilidades com React. Foi pensado e idealizado como meu primeiro projeto em contato com essa tecnologia.
 
-# Organo
+🔨 Funcionalidades do projeto
+Você pode visualizar a arte conceitual do projeto no Figma para entender melhor a estrutura e o design.
 
-O Organo é aplicação desenvolvida no curso <a href="https://cursos.alura.com.br/course/react-desenvolvendo-javascript" target="_blank">React: desenvolvendo com JavaScript</a>. 
-Foi pensado e idealizado para ser o primeiro projeto em contato com o React.
+✔️ Técnicas e tecnologias utilizadas
+Confira a lista de tudo que utilizei no desenvolvimento deste projeto:
 
-<img src="screencapture.png" alt="Imagem do Organo" width="50%">
-
-
-## 🔨 Funcionalidades do projeto
-
-Você pode passear <a href="https://cursos.alura.com.br/course/react-desenvolvendo-javascript" target="_blank">no figma</a> para entender a arte conceitual do projeto.
-
-## ✔️ Técnicas e tecnologias utilizadas
-
-Se liga nessa lista de tudo que usaremos nessa formação:
-
-- `React`
-- `React Hooks`
-- `TypeScript`
-
+React
+React Hooks
+TypeScript
 E muito mais!
 
-## 🛠️ Abrir e rodar o projeto
-
-Para abrir e rodar o projeto, execute `npm i` para instalar as dependências e `npm start` para inicar o projeto.
+🛠️ Abrir e rodar o projeto
+Para abrir e rodar o projeto, execute npm i para instalar as dependências e npm start para iniciar o projeto.
 
 Depois, acesse <a href="http://localhost:3000/">http://localhost:3000/</a> no seu navegador.
+
+
+
+
 
