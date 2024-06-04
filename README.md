@@ -1,4 +1,3 @@
-Organo
 O Organo é uma aplicação que desenvolvi para aprimorar minhas habilidades com React. Foi pensado e idealizado como meu primeiro projeto em contato com essa tecnologia.
 
 🔨 Funcionalidades do projeto
